@@ -34,7 +34,6 @@ You can use a cliente like POSTMAN to access this API.
 
 
 ## System Usage
-The system will generate a token upon login. This token will be unique and non-repeating and will have a lifespan of one hour. After this time, the token will not be valid to access the services [],[],[].
 You can consume the application endpoints to perform operations such as creating customers, querying customer information, and deleting customer information.
 
 ## API endpoints
